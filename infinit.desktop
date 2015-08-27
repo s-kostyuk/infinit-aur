@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Infinit
+TryExec=/opt/infinit/bin/Infinit
+Exec=Infinit %U
+Icon=infinit.png
+Categories=Network;FileTransfer;
