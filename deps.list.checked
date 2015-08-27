@@ -1,0 +1,70 @@
+infinit W: Directory (usr/bin) is empty
+infinit E: Missing custom license directory (usr/share/licenses/infinit)
+infinit E: ELF file ('opt/infinit/bin/Infinit') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_program_options.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_context.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_system.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libcurl.so.4') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQtWebKit.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libfrete.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libprotocol.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQtNetwork.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_signals.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQtGui.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libpapier.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQxtGui.so.0') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libmetrics.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libelle.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libz.so.1') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_thread.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_filesystem.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_date_time.so.1.56.0') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libcryptography.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libfuse.so.2') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libreactor.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libcrash.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libtransaction.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libaws.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_chrono.so.1.56.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libcrypto.so.1.0.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libarchive.so.13') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libssl.so.1.0.0') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQxtCore.so.0') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libmetaclient.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libstation.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libgap.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libQtCore.so') outside of a valid path.
+infinit E: ELF file ('opt/infinit/lib/libtrophonius-client.so') outside of a valid path.
+//infinit E: ELF file ('opt/infinit/lib/libboost_regex.so.1.56.0') outside of a valid path.
+infinit E: Insecure RPATH '/root/slave/x86_64_linux-Debian-wheezy_gcc4/build/fist-gui-qt/qxt/libqxt-libqxt-dadc327c2a6a/lib' in file ('opt/infinit/lib/libQxtGui.so.0')
+infinit E: Insecure RPATH '/root/slave/x86_64_linux-Debian-wheezy_gcc4/build/fist-gui-qt/qxt/libqxt-libqxt-dadc327c2a6a/lib' in file ('opt/infinit/lib/libQxtCore.so.0')
+infinit W: Referenced library 'libboost_date_time.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libtransaction.so' is an uninstalled dependency
+infinit W: Referenced library 'libboost_chrono.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libQxtCore.so.0' is an uninstalled dependency
+infinit W: Referenced library 'libfrete.so' is an uninstalled dependency
+infinit W: Referenced library 'libstation.so' is an uninstalled dependency
+infinit W: Referenced library 'libcryptography.so' is an uninstalled dependency
+infinit W: Referenced library 'libpapier.so' is an uninstalled dependency
+infinit W: Referenced library 'libboost_system.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libpng12.so.0' is an uninstalled dependency
+infinit W: Referenced library 'libcrash.so' is an uninstalled dependency
+infinit W: Referenced library 'libtrophonius-client.so' is an uninstalled dependency
+infinit W: Referenced library 'libboost_regex.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libreactor.so' is an uninstalled dependency
+infinit W: Referenced library 'libmetaclient.so' is an uninstalled dependency
+infinit W: Referenced library 'libQxtGui.so.0' is an uninstalled dependency
+infinit W: Referenced library 'libboost_signals.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libelle.so' is an uninstalled dependency
+infinit W: Referenced library 'libmetrics.so' is an uninstalled dependency
+infinit W: Referenced library 'libboost_context.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libaws.so' is an uninstalled dependency
+infinit W: Referenced library 'libboost_thread.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libboost_program_options.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libboost_filesystem.so.1.56.0' is an uninstalled dependency
+infinit W: Referenced library 'libprotocol.so' is an uninstalled dependency
+infinit W: Referenced library 'libgap.so' is an uninstalled dependency
+infinit E: Dependency fuse detected and not included (libraries ['usr/lib/libfuse.so.2'] needed in files ['opt/infinit/lib/libreactor.so'])
+infinit E: Dependency qtwebkit detected and not included (libraries ['usr/lib/libQtWebKit.so.4'] needed in files ['opt/infinit/bin/Infinit'])
+infinit E: Dependency curl detected and not included (libraries ['usr/lib/libcurl.so.4'] needed in files ['opt/infinit/lib/libreactor.so'])
+infinit E: Dependency libarchive detected and not included (libraries ['usr/lib/libarchive.so.13'] needed in files ['opt/infinit/lib/libelle.so'])
